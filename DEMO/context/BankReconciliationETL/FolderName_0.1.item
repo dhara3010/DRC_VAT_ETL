@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_IwchENaOEeiwIZVfCcN77g" confirmationNeeded="false" name="Default">
+    <contextParameter xmi:id="_IwchEdaOEeiwIZVfCcN77g" comment="" name="Queue" prompt="Queue?" promptNeeded="false" type="id_String" value="&quot;D:/DRC/Talend/Files/BankReconciliationETL&quot;"/>
+    <contextParameter xmi:id="_IwchEtaOEeiwIZVfCcN77g" comment="" name="InProcess_Files" prompt="InProcess_Files?" promptNeeded="false" type="id_String" value="&quot;D:/DRC/Talend/Files/BankReconciliationETL/InProcess&quot;"/>
+    <contextParameter xmi:id="_IwchE9aOEeiwIZVfCcN77g" comment="" name="Processed_Files" prompt="Processed_Files?" promptNeeded="false" type="id_String" value="&quot;D:/DRC/Talend/Files/BankReconciliationETL/Processed&quot;"/>
+    <contextParameter xmi:id="_IwchFNaOEeiwIZVfCcN77g" comment="" name="Error_Files" prompt="Error_Files?" promptNeeded="false" type="id_String" value="&quot;D:/DRC/Talend/Files/BankReconciliationETL/Error&quot;"/>
+    <contextParameter xmi:id="_IwchFdaOEeiwIZVfCcN77g" comment="" name="PartiallyProcessed_Files" prompt="PartiallyProcessed_Files?" promptNeeded="false" type="id_String" value=""/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_IwchFtaOEeiwIZVfCcN77g" confirmationNeeded="false" name="PracticeFolder">
+    <contextParameter xmi:id="_IwchF9aOEeiwIZVfCcN77g" comment="" name="Queue" prompt="Queue?" promptNeeded="false" type="id_String" value="&quot;D:/DRC/Talend/Files/PracticeFiles/BankReconciliationETL&quot;"/>
+    <contextParameter xmi:id="_IwchGNaOEeiwIZVfCcN77g" comment="" name="InProcess_Files" prompt="InProcess_Files?" promptNeeded="false" type="id_String" value="&quot;D:/DRC/Talend/Files/PracticeFiles/BankReconciliationETL/InProcess&quot;"/>
+    <contextParameter xmi:id="_IwchGdaOEeiwIZVfCcN77g" comment="" name="Processed_Files" prompt="Processed_Files?" promptNeeded="false" type="id_String" value="&quot;D:/DRC/Talend/Files/PracticeFiles/BankReconciliationETL/Processed&quot;"/>
+    <contextParameter xmi:id="_IwchGtaOEeiwIZVfCcN77g" comment="" name="Error_Files" prompt="Error_Files?" promptNeeded="false" type="id_String" value="&quot;D:/DRC/Talend/Files/PracticeFiles/BankReconciliationETL/Error&quot;"/>
+    <contextParameter xmi:id="_IwchG9aOEeiwIZVfCcN77g" comment="" name="PartiallyProcessed_Files" prompt="PartiallyProcessed_Files?" promptNeeded="false" type="id_String" value="&quot;D:/DRC/Talend/Files/PracticeFiles/BankReconciliationETL/PartiallyProcess&quot;"/>
+  </talendfile:ContextType>
+</xmi:XMI>
